@@ -136,7 +136,7 @@ for student in students :
 > python uygulama-while.py
     Öğrenci no: 31097
     Öğrenci Adı: Christopher Chan
-    Öğrenci Soyadı: Bang
+    Öğrenci Soyadı: Bang    "
     Devam mı? (e/h)e
     Öğrenci no: 251098
     Öğrenci Adı: Minho
